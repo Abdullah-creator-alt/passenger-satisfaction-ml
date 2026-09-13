@@ -53,11 +53,11 @@ The dataset includes 27 features covering:
 - **Python 3.x**
 - **Pandas** - Data manipulation and analysis
 - **NumPy** - Numerical computing
-- **Scikit-learn** - Machine learning algorithms
+- **Scikit-learn** - StandardScaler for feature scaling
+- **Matplotlib/Seaborn** - Data visualization
+- **Models** - Machine learning algorithms
   - Logistic Regression
   - Decision Trees
-  - StandardScaler for feature scaling
-- **Matplotlib/Seaborn** - Data visualization
 
 ## 🚀 Project Structure
 
