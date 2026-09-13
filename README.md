@@ -55,9 +55,6 @@ The dataset includes 27 features covering:
 - **NumPy** - Numerical computing
 - **Scikit-learn** - StandardScaler for feature scaling
 - **Matplotlib/Seaborn** - Data visualization
-- **Models** - Machine learning algorithms
-  - Logistic Regression
-  - Decision Trees
 
 ## 🚀 Project Structure
 
